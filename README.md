@@ -1,4 +1,4 @@
-# 2-Player Hgher-Lower
+# 2-Player Higher-Lower Game
 
 This was a team project I participated in. The original repository got lost long ago.
 It was part of an intership training.
